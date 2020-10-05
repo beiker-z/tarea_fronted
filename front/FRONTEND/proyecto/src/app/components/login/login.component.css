@@ -1,0 +1,31 @@
+.formulario{
+
+  background-color:#A9E2F3;
+  border-style:groove;
+  border-color: rgb(158, 146, 146);
+  border-radius: 15px;
+
+  width: 400px;
+  height:450px;
+  text-align: center;
+  padding: 70px;
+  margin-left: 340px;
+  margin-top: 100px;
+  margin-right: 300px;
+
+}
+
+input{
+
+  background-color: white;
+  border-style: dotted;
+  color:green;
+  width: 400px;
+  height:30px;
+
+
+}
+
+.ttulo{
+
+}
